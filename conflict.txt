@@ -1,0 +1,2 @@
+conflict demo
+line 2 from local repo
